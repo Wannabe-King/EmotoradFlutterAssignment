@@ -30,7 +30,7 @@ A Flutter-based mobile application where users can scratch a virtual card every 
 
 ## Screenshots
 
-| Home Screen | Redemption Store | Redemption Store | History Screen |
+| Home Screen | Scratching Screen | Redemption Store | History Screen |
 |-------------|------------------|------------------|----------------|
 | ![Home Screen](screenshots/HomeScreen.png) | ![Redemption Store](screenshots/ScratchingScreen.png)| ![Redemption Store](screenshots/RedemptionStoreScreen.png) | ![History Screen](screenshots/HistoryScreen.png) |
 
